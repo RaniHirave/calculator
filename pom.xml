@@ -7,6 +7,7 @@
 	<artifactId>demo-calculator</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>demo-calculator</name>
+
 	<properties>
 		<spring.version>4.3.11.RELEASE</spring.version>
 		<spring-security.version>4.2.3.RELEASE</spring-security.version>
@@ -91,6 +92,11 @@
 							<active_profile>${active_profile}</active_profile>
 						</systemPropertyVariables>
 					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.sonarsource.scanner.maven</groupId>
+					<artifactId>sonar-maven-plugin</artifactId>
+					<version>3.4.0.905</version>
 				</plugin>
 			</plugins>
 		</pluginManagement>
