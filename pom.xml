@@ -24,6 +24,11 @@
 		<sonar.projectKey>cglx:demo-calculator</sonar.projectKey>
 		<sonar.projectName>demo-calculator</sonar.projectName>
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
+		<!-- <Dsonar.analysis.mode>preview</Dsonar.analysis.mode> <Dsonar.github.pullRequest>1</Dsonar.github.pullRequest> 
+			<Dsonar.github.repository>RaniHirave/demo-calculator</Dsonar.github.repository> 
+			<Dsonar.github.oauth>746a5cda7c84e326e6171076951d8d329c9272e4</Dsonar.github.oauth> 
+			<Dsonar.host.url>http://localhost:9000</Dsonar.host.url> <Dsonar.login>6c7a14c0bcc18728150b1fe4c58b2152a39ed588</Dsonar.login> 
+			<Dsonar.projectName>demo-calculator</Dsonar.projectName> <Dsonar.projectVersion>2</Dsonar.projectVersion> -->
 		<sonar.language>java</sonar.language>
 		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
 		<sonar.sources>src/main/java</sonar.sources>
