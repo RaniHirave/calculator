@@ -25,9 +25,9 @@ public class Calculator {
         return a - b;
     }
 
-    public int square(int a)
+    public int square(int aa)
     {
-        return a*a;
+        return aa*aa;
     }
 
     public boolean areEqual(int f1, int f2) {
