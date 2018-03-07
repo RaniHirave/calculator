@@ -33,7 +33,4 @@ public class Calculator {
     public boolean areEqual(int f1, int f2) {
         return f1 == f2;
     }
-    public boolean areNotEqual(int f1, int f2) {
-        return f1 != f2;
-    }
 }
