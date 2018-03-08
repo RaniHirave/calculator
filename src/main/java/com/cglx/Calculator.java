@@ -30,10 +30,10 @@ public class Calculator {
         return aa*aa;
     }
 
-    public boolean areEqual(int f1, int f2) {
-        return f1 == f2;
+    public boolean areEqual(int f11, int f12) {
+        return f11 == f12;
     }
-    public boolean areNotEqual(int f1, int f2) {
-        return f1 == f2;
+    public boolean areNotEqual(int f11, int f12) {
+        return f11 == f12;
     }
 }
