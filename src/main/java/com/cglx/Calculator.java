@@ -7,8 +7,7 @@ public class Calculator {
 
     public int add(int a, int b)
     {
-    	System.out.println("add");
-        return a+b;
+    	return a+b;
     }
 
     public int multiply(int a, int b)
@@ -38,9 +37,5 @@ public class Calculator {
     public boolean areEqual(int f11, int f12) {
     	System.out.println("equal");
         return f11 == f12;
-    }
-    public boolean areNotEqual(int f11, int f12) {
-    	System.out.println("not equal");
-        return f11 != f12;
     }
 }
