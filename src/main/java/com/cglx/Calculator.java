@@ -34,10 +34,12 @@ public class Calculator {
     	System.out.println("square");
         return aa*aa;
     }
-
     public boolean areEqual(int f11, int f12) {
     	System.out.println("equal");
         return f11 == f12;
+    }
+    public void printInt(int f11, int f12) {
+    	System.out.println("f11:" + f11 + "f12:" + f12);
     }
     public void print(int f11, int f12) {
     	System.out.println("f11:" + f11 + "f12:" + f12);

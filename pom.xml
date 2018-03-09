@@ -23,6 +23,7 @@
 		<sonar.projectKey>cglx:demo-calculator</sonar.projectKey>
 		<sonar.projectName>demo-calculator</sonar.projectName>
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
+		<sonar.projectVersion>2</sonar.projectVersion>
 		<sonar.language>java</sonar.language>
 		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
 		<sonar.sources>src/main/java</sonar.sources>
