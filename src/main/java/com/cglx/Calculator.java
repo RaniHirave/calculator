@@ -39,8 +39,4 @@ public class Calculator {
     	System.out.println("equal");
         return f11 == f12;
     }
-    public boolean areNotEqual(int f11, int f12) {
-    	System.out.println("not equal");
-        return f11 != f12;
-    }
 }
