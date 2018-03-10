@@ -44,6 +44,9 @@ public class Calculator {
     public void printFloat(float f11, float f12) {
     	System.out.println("f11:" + f11 + "f12:" + f12);
     }
+    public void printString(String name) {
+    	System.out.println(name);
+    }
     public void print(int f11, int f12) {
     	System.out.println("f11:" + f11 + "f12:" + f12);
     }
